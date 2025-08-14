@@ -17,7 +17,7 @@ Tasks:-
 Skills Used:-
 
 (i) SQL joins & aggregations
-(ii) Window functions (RANK, LAG, cumulative sums)
+(ii) Window functions
 (iii) Grouping and filtering
 (iv) Date calculations
 (v) Percent calculations
